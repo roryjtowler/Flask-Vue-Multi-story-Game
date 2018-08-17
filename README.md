@@ -12,6 +12,9 @@ Req:
 
   > A Vue.js project
 
+
+![Alt text](https://preview.ibb.co/hBdoxe/Screen_Shot_2018_08_17_at_18_17_53.png)
+
   ## Build Setup
 
   ``` bash
@@ -33,8 +36,4 @@ Req:
   # server (cd/.../server)
 
   - python app.py
-  
-  
-  
-
-![Alt text](https://preview.ibb.co/hBdoxe/Screen_Shot_2018_08_17_at_18_17_53.png)
+ 

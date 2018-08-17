@@ -34,6 +34,4 @@ Req:
 
   - python app.py
 
- ![Alt text](https://ibb.co/gd2Fce "Optional Title")
-
-https://ibb.co/gd2Fce
+![Alt text](https://ibb.co/gd2Fce][img]https://preview.ibb.co/hBdoxe/Screen_Shot_2018_08_17_at_18_17_53.png)
